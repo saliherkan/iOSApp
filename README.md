@@ -1,9 +1,9 @@
 ### **swift // xCode**
-## Adobe XD tasarımına göre tasarım
-## Kişi Ekleme / Ekli kişiyi güncelleme
-## Kayıtlı kişinin detaylarını gösterme
-## (+) butonuyla kişi ekleme sayasına yönlendirme
-Search bar ile isme göre filtreleme
+### **Adobe XD tasarımına göre tasarım**
+### **Kişi Ekleme / Ekli kişiyi güncelleme**
+### **Kayıtlı kişinin detaylarını gösterme**
+### **(+) butonuyla kişi ekleme sayasına yönlendirme**
+### **Search bar ile isme göre filtreleme**
 Kişi ekleme sayfasını 2 farklı modda açma => Kişi Güncelle / Kişi Ekle
 Ekleme sayfasında bulunan inputları boş şekilde açma
 Güncelleme sayfasını inputlar dolu şekilde açma(Seçilen kişinin bilgileri)
