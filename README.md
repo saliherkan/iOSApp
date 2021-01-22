@@ -1,4 +1,4 @@
-# swift // xCode
+### swift // xCode
 ## Adobe XD tasarımına göre tasarım
 ## Kişi Ekleme / Ekli kişiyi güncelleme
 ## Kayıtlı kişinin detaylarını gösterme
