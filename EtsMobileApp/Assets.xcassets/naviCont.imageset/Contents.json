@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Oval Copy 2 + Oval Copy + Oval Mask.svg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Oval Copy 2 + Oval Copy + Oval Mask-1.svg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Oval Copy 2 + Oval Copy + Oval Mask-2.svg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
